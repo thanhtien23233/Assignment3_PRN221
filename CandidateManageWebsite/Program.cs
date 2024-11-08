@@ -1,9 +1,9 @@
-using Candidate_Services.CandidateService;
 using Candidate_Repositories.CandidateRepo;
-using Candidate_Services.JobPostingService;
-using Candidate_Repositories.JobPostingRepo;
-using Candidate_Services.HRAccountService;
 using Candidate_Repositories.HRAccountRepo;
+using Candidate_Repositories.JobPostingRepo;
+using Candidate_Services.CandidateService;
+using Candidate_Services.HRAccountService;
+using Candidate_Services.JobPostingService;
 var builder = WebApplication.CreateBuilder(args);
 
 //builder.Services.Use

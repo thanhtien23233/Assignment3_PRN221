@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.RazorPages;
-using Microsoft.EntityFrameworkCore;
-using Candidate_BusinessObjects.Models;
+﻿using Candidate_BusinessObjects.Models;
 using Candidate_Services.JobPostingService;
+using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace CandidateManageWebsite.Pages.JobPostingPages
 {

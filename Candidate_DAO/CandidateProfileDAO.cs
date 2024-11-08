@@ -1,16 +1,12 @@
 ﻿using Candidate_BusinessObjects.Models;
 using Newtonsoft.Json;
-using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
 
 namespace Candidate_DAO
 {
     public class CandidateProfileDAO
     {
         //private static readonly string filePath = "Your File Here";
-        private static readonly string 
+        private static readonly string
             filePath = "C:/Users/thanhtien/Desktop/Assignment3_PRN221" +
             "/Candidate_BusinessObject/Data/candidateprofiles.json";
         public static CandidateProfileDAO instance = null;

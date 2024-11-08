@@ -1,6 +1,5 @@
 ﻿using Candidate_Services.CandidateService;
 using Candidate_Services.JobPostingService;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CandidateManageWebsite.Controllers

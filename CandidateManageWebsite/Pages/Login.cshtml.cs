@@ -1,8 +1,5 @@
 using Candidate_BusinessObjects.Models;
-using Candidate_Services.CandidateService;
 using Candidate_Services.HRAccountService;
-using Candidate_Services.JobPostingService;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace CandidateManageWebsite.Pages
@@ -19,17 +16,17 @@ namespace CandidateManageWebsite.Pages
         }
         public void OnPost()
         {
-            
+
             String email = Request.Form["txtEmail"];
-            String password = Request.Form["txtPassword"]; 
-            
+            String password = Request.Form["txtPassword"];
+
 
             Hraccount hraccount = hRAccountService.GetHraccountByEmail(email);
             if ((hraccount != null)
                 && hraccount.Email.Equals(email)
                 && hraccount.Password.Equals(password))
             {
-                HttpContext.Session.SetString("RoleID",hraccount.MemberRole.ToString());
+                HttpContext.Session.SetString("RoleID", hraccount.MemberRole.ToString());
                 Response.Redirect("/ChoosePage");
             }
             else Response.Redirect("/Error");
