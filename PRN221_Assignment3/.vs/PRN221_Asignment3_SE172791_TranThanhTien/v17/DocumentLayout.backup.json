@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thanhtien\\Desktop\\Assignment3_PRN221\\PRN221_Assignment3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39F65D22-804A-4CFF-806D-E2BBBB098D5D}|..\\CandidateManageWebsite\\CandidateManageWebsite.csproj|c:\\users\\thanhtien\\desktop\\assignment3_prn221\\candidatemanagewebsite\\pages\\jobpostingpages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F65D22-804A-4CFF-806D-E2BBBB098D5D}|..\\CandidateManageWebsite\\CandidateManageWebsite.csproj|c:\\users\\thanhtien\\desktop\\assignment3_prn221\\candidatemanagewebsite\\pages\\candidateprofilepages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F65D22-804A-4CFF-806D-E2BBBB098D5D}|..\\CandidateManageWebsite\\CandidateManageWebsite.csproj|c:\\users\\thanhtien\\desktop\\assignment3_prn221\\candidatemanagewebsite\\controllers\\datatablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E45A0F9-959B-4C97-83B4-4B284B47C902}|..\\Candidate_Services\\Candidate_Services.csproj|c:\\users\\thanhtien\\desktop\\assignment3_prn221\\candidate_services\\jobpostingservice\\jobpostingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E45A0F9-959B-4C97-83B4-4B284B47C902}|..\\Candidate_Services\\Candidate_Services.csproj|c:\\users\\thanhtien\\desktop\\assignment3_prn221\\candidate_services\\jobpostingservice\\ijobpostingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E45A0F9-959B-4C97-83B4-4B284B47C902}|..\\Candidate_Services\\Candidate_Services.csproj|c:\\users\\thanhtien\\desktop\\assignment3_prn221\\candidate_services\\hraccountservice\\hraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E45A0F9-959B-4C97-83B4-4B284B47C902}|..\\Candidate_Services\\Candidate_Services.csproj|c:\\users\\thanhtien\\desktop\\assignment3_prn221\\candidate_services\\candidateservice\\icandidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E45A0F9-959B-4C97-83B4-4B284B47C902}|..\\Candidate_Services\\Candidate_Services.csproj|c:\\users\\thanhtien\\desktop\\assignment3_prn221\\candidate_services\\candidateservice\\candidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D34673D-48A4-400D-855C-D96DA437B38F}|..\\Candidate_Repository\\Candidate_Repositories.csproj|c:\\users\\thanhtien\\desktop\\assignment3_prn221\\candidate_repository\\candidaterepo\\candidaterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D34673D-48A4-400D-855C-D96DA437B38F}|..\\Candidate_Repository\\Candidate_Repositories.csproj|c:\\users\\thanhtien\\desktop\\assignment3_prn221\\candidate_repository\\candidaterepo\\icandidaterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D34673D-48A4-400D-855C-D96DA437B38F}|..\\Candidate_Repository\\Candidate_Repositories.csproj|c:\\users\\thanhtien\\desktop\\assignment3_prn221\\candidate_repository\\jobpostingrepo\\jobpostingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D34673D-48A4-400D-855C-D96DA437B38F}|..\\Candidate_Repository\\Candidate_Repositories.csproj|c:\\users\\thanhtien\\desktop\\assignment3_prn221\\candidate_repository\\jobpostingrepo\\ijobpostingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E3C912-A145-4D43-99E4-B57888977B61}|..\\Candidate_DAO\\Candidate_DAO.csproj|c:\\users\\thanhtien\\desktop\\assignment3_prn221\\candidate_dao\\candidateprofiledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D34673D-48A4-400D-855C-D96DA437B38F}|..\\Candidate_Repository\\Candidate_Repositories.csproj|c:\\users\\thanhtien\\desktop\\assignment3_prn221\\candidate_repository\\hraccountrepo\\hraccountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\thanhtien\\Desktop\\Assignment3_PRN221\\CandidateManageWebsite\\Pages\\JobPostingPages\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "..\\CandidateManageWebsite\\Pages\\JobPostingPages\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\thanhtien\\Desktop\\Assignment3_PRN221\\CandidateManageWebsite\\Pages\\JobPostingPages\\Delete.cshtml.cs",
+              "RelativeToolTip": "..\\CandidateManageWebsite\\Pages\\JobPostingPages\\Delete.cshtml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwCAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T01:19:58.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\thanhtien\\Desktop\\Assignment3_PRN221\\CandidateManageWebsite\\Pages\\CandidateProfilePages\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "..\\CandidateManageWebsite\\Pages\\CandidateProfilePages\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\thanhtien\\Desktop\\Assignment3_PRN221\\CandidateManageWebsite\\Pages\\CandidateProfilePages\\Delete.cshtml.cs",
+              "RelativeToolTip": "..\\CandidateManageWebsite\\Pages\\CandidateProfilePages\\Delete.cshtml.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T01:19:33.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataTableController.cs",
+              "DocumentMoniker": "C:\\Users\\thanhtien\\Desktop\\Assignment3_PRN221\\CandidateManageWebsite\\Controllers\\DataTableController.cs",
+              "RelativeDocumentMoniker": "..\\CandidateManageWebsite\\Controllers\\DataTableController.cs",
+              "ToolTip": "C:\\Users\\thanhtien\\Desktop\\Assignment3_PRN221\\CandidateManageWebsite\\Controllers\\DataTableController.cs",
+              "RelativeToolTip": "..\\CandidateManageWebsite\\Controllers\\DataTableController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwDcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T01:18:49.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JobPostingService.cs",
+              "DocumentMoniker": "C:\\Users\\thanhtien\\Desktop\\Assignment3_PRN221\\Candidate_Services\\JobPostingService\\JobPostingService.cs",
+              "RelativeDocumentMoniker": "..\\Candidate_Services\\JobPostingService\\JobPostingService.cs",
+              "ToolTip": "C:\\Users\\thanhtien\\Desktop\\Assignment3_PRN221\\Candidate_Services\\JobPostingService\\JobPostingService.cs",
+              "RelativeToolTip": "..\\Candidate_Services\\JobPostingService\\JobPostingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T01:18:29.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IJobPostingService.cs",
+              "DocumentMoniker": "C:\\Users\\thanhtien\\Desktop\\Assignment3_PRN221\\Candidate_Services\\JobPostingService\\IJobPostingService.cs",
+              "RelativeDocumentMoniker": "..\\Candidate_Services\\JobPostingService\\IJobPostingService.cs",
+              "ToolTip": "C:\\Users\\thanhtien\\Desktop\\Assignment3_PRN221\\Candidate_Services\\JobPostingService\\IJobPostingService.cs",
+              "RelativeToolTip": "..\\Candidate_Services\\JobPostingService\\IJobPostingService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T01:18:22.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HRAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\thanhtien\\Desktop\\Assignment3_PRN221\\Candidate_Services\\HRAccountService\\HRAccountService.cs",
+              "RelativeDocumentMoniker": "..\\Candidate_Services\\HRAccountService\\HRAccountService.cs",
+              "ToolTip": "C:\\Users\\thanhtien\\Desktop\\Assignment3_PRN221\\Candidate_Services\\HRAccountService\\HRAccountService.cs",
+              "RelativeToolTip": "..\\Candidate_Services\\HRAccountService\\HRAccountService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T01:18:16.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICandidateService.cs",
+              "DocumentMoniker": "C:\\Users\\thanhtien\\Desktop\\Assignment3_PRN221\\Candidate_Services\\CandidateService\\ICandidateService.cs",
+              "RelativeDocumentMoniker": "..\\Candidate_Services\\CandidateService\\ICandidateService.cs",
+              "ToolTip": "C:\\Users\\thanhtien\\Desktop\\Assignment3_PRN221\\Candidate_Services\\CandidateService\\ICandidateService.cs",
+              "RelativeToolTip": "..\\Candidate_Services\\CandidateService\\ICandidateService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA3wAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T01:17:58.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CandidateService.cs",
+              "DocumentMoniker": "C:\\Users\\thanhtien\\Desktop\\Assignment3_PRN221\\Candidate_Services\\CandidateService\\CandidateService.cs",
+              "RelativeDocumentMoniker": "..\\Candidate_Services\\CandidateService\\CandidateService.cs",
+              "ToolTip": "C:\\Users\\thanhtien\\Desktop\\Assignment3_PRN221\\Candidate_Services\\CandidateService\\CandidateService.cs",
+              "RelativeToolTip": "..\\Candidate_Services\\CandidateService\\CandidateService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T01:17:30.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICandidateRepo.cs",
+              "DocumentMoniker": "C:\\Users\\thanhtien\\Desktop\\Assignment3_PRN221\\Candidate_Repository\\CandidateRepo\\ICandidateRepo.cs",
+              "RelativeDocumentMoniker": "..\\Candidate_Repository\\CandidateRepo\\ICandidateRepo.cs",
+              "ToolTip": "C:\\Users\\thanhtien\\Desktop\\Assignment3_PRN221\\Candidate_Repository\\CandidateRepo\\ICandidateRepo.cs",
+              "RelativeToolTip": "..\\Candidate_Repository\\CandidateRepo\\ICandidateRepo.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAApwAoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T01:15:20.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IJobPostingRepo.cs",
+              "DocumentMoniker": "C:\\Users\\thanhtien\\Desktop\\Assignment3_PRN221\\Candidate_Repository\\JobPostingRepo\\IJobPostingRepo.cs",
+              "RelativeDocumentMoniker": "..\\Candidate_Repository\\JobPostingRepo\\IJobPostingRepo.cs",
+              "ToolTip": "C:\\Users\\thanhtien\\Desktop\\Assignment3_PRN221\\Candidate_Repository\\JobPostingRepo\\IJobPostingRepo.cs",
+              "RelativeToolTip": "..\\Candidate_Repository\\JobPostingRepo\\IJobPostingRepo.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T01:16:53.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CandidateProfileDAO.cs",
+              "DocumentMoniker": "C:\\Users\\thanhtien\\Desktop\\Assignment3_PRN221\\Candidate_DAO\\CandidateProfileDAO.cs",
+              "RelativeDocumentMoniker": "..\\Candidate_DAO\\CandidateProfileDAO.cs",
+              "ToolTip": "C:\\Users\\thanhtien\\Desktop\\Assignment3_PRN221\\Candidate_DAO\\CandidateProfileDAO.cs",
+              "RelativeToolTip": "..\\Candidate_DAO\\CandidateProfileDAO.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAAAGcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T01:15:41.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JobPostingRepo.cs",
+              "DocumentMoniker": "C:\\Users\\thanhtien\\Desktop\\Assignment3_PRN221\\Candidate_Repository\\JobPostingRepo\\JobPostingRepo.cs",
+              "RelativeDocumentMoniker": "..\\Candidate_Repository\\JobPostingRepo\\JobPostingRepo.cs",
+              "ToolTip": "C:\\Users\\thanhtien\\Desktop\\Assignment3_PRN221\\Candidate_Repository\\JobPostingRepo\\JobPostingRepo.cs",
+              "RelativeToolTip": "..\\Candidate_Repository\\JobPostingRepo\\JobPostingRepo.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA3wAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T01:15:22.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CandidateRepo.cs",
+              "DocumentMoniker": "C:\\Users\\thanhtien\\Desktop\\Assignment3_PRN221\\Candidate_Repository\\CandidateRepo\\CandidateRepo.cs",
+              "RelativeDocumentMoniker": "..\\Candidate_Repository\\CandidateRepo\\CandidateRepo.cs",
+              "ToolTip": "C:\\Users\\thanhtien\\Desktop\\Assignment3_PRN221\\Candidate_Repository\\CandidateRepo\\CandidateRepo.cs",
+              "RelativeToolTip": "..\\Candidate_Repository\\CandidateRepo\\CandidateRepo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwAwAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T01:15:14.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HRAccountRepo.cs",
+              "DocumentMoniker": "C:\\Users\\thanhtien\\Desktop\\Assignment3_PRN221\\Candidate_Repository\\HRAccountRepo\\HRAccountRepo.cs",
+              "RelativeDocumentMoniker": "..\\Candidate_Repository\\HRAccountRepo\\HRAccountRepo.cs",
+              "ToolTip": "C:\\Users\\thanhtien\\Desktop\\Assignment3_PRN221\\Candidate_Repository\\HRAccountRepo\\HRAccountRepo.cs",
+              "RelativeToolTip": "..\\Candidate_Repository\\HRAccountRepo\\HRAccountRepo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T01:14:40.505Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1170,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
