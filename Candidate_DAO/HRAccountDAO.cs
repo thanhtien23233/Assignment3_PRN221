@@ -5,11 +5,9 @@ namespace Candidate_DAO
 {
     public class HRAccountDAO
     {
-        private static readonly string
-            filePath = "C:/Users/thanhtien/Desktop/Assignment3_PRN221" +
-            "/Candidate_BusinessObject/Data/hraccount.json";
+        static string relativePath = @"..\..\..\..\Candidate_DAO\Data\hraccount.json";
+        static string filePath = Path.GetFullPath(Path.Combine(Directory.GetCurrentDirectory(), relativePath));
         private static HRAccountDAO instance = null;
-
         public static HRAccountDAO Instance
         {
             get
@@ -28,7 +26,6 @@ namespace Candidate_DAO
             {
                 return new List<Hraccount>();
             }
-
             string jsonData = File.ReadAllText(filePath);
             return JsonConvert.DeserializeObject<List<Hraccount>>(jsonData) ?? new List<Hraccount>();
         }

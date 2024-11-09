@@ -5,9 +5,8 @@ namespace Candidate_DAO
 {
     public class JobPostDAO
     {
-        private static readonly string
-            filePath = "C:/Users/thanhtien/Desktop/Assignment3_PRN221" +
-            "/Candidate_BusinessObject/Data/jobposting.json";
+        static string relativePath = @"..\..\..\..\Candidate_DAO\Data\jobposting.json";
+        static string filePath = Path.GetFullPath(Path.Combine(Directory.GetCurrentDirectory(), relativePath));
         private static JobPostDAO instance = null;
 
         public static JobPostDAO Instance

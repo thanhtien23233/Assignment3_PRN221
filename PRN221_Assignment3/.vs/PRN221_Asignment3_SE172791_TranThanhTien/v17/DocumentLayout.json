@@ -1,15 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\thanhtien\\Desktop\\Assignment3_PRN221\\PRN221_Assignment3\\",
+  "WorkspaceRootPath": "D:\\Non-Entertain\\Assignment3_PRN221\\PRN221_Assignment3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32E3C912-A145-4D43-99E4-B57888977B61}|..\\Candidate_DAO\\Candidate_DAO.csproj|c:\\users\\thanhtien\\desktop\\assignment3_prn221\\candidate_dao\\jobpostdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14A9597C-E2DF-48B0-94CC-B82A7C394125}|..\\Test\\Test.csproj|d:\\non-entertain\\assignment3_prn221\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32E3C912-A145-4D43-99E4-B57888977B61}|..\\Candidate_DAO\\Candidate_DAO.csproj|c:\\users\\thanhtien\\desktop\\assignment3_prn221\\candidate_dao\\candidatemanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32E3C912-A145-4D43-99E4-B57888977B61}|..\\Candidate_DAO\\Candidate_DAO.csproj|d:\\non-entertain\\assignment3_prn221\\candidate_dao\\candidateprofiledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32E3C912-A145-4D43-99E4-B57888977B61}|..\\Candidate_DAO\\Candidate_DAO.csproj|c:\\users\\thanhtien\\desktop\\assignment3_prn221\\candidate_dao\\candidateprofiledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32E3C912-A145-4D43-99E4-B57888977B61}|..\\Candidate_DAO\\Candidate_DAO.csproj|d:\\non-entertain\\assignment3_prn221\\candidate_dao\\jobpostdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E3C912-A145-4D43-99E4-B57888977B61}|..\\Candidate_DAO\\Candidate_DAO.csproj|d:\\non-entertain\\assignment3_prn221\\candidate_dao\\hraccountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,40 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "JobPostDAO.cs",
-              "DocumentMoniker": "C:\\Users\\thanhtien\\Desktop\\Assignment3_PRN221\\Candidate_DAO\\JobPostDAO.cs",
-              "RelativeDocumentMoniker": "..\\Candidate_DAO\\JobPostDAO.cs",
-              "ToolTip": "C:\\Users\\thanhtien\\Desktop\\Assignment3_PRN221\\Candidate_DAO\\JobPostDAO.cs",
-              "RelativeToolTip": "..\\Candidate_DAO\\JobPostDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Non-Entertain\\Assignment3_PRN221\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Test\\Program.cs",
+              "ToolTip": "D:\\Non-Entertain\\Assignment3_PRN221\\Test\\Program.cs",
+              "RelativeToolTip": "..\\Test\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T01:27:12.811Z",
+              "WhenOpened": "2024-11-09T14:17:36.136Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CandidateManagementContext.cs",
-              "DocumentMoniker": "C:\\Users\\thanhtien\\Desktop\\Assignment3_PRN221\\Candidate_DAO\\CandidateManagementContext.cs",
-              "RelativeDocumentMoniker": "..\\Candidate_DAO\\CandidateManagementContext.cs",
-              "ToolTip": "C:\\Users\\thanhtien\\Desktop\\Assignment3_PRN221\\Candidate_DAO\\CandidateManagementContext.cs",
-              "RelativeToolTip": "..\\Candidate_DAO\\CandidateManagementContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "CandidateProfileDAO.cs",
+              "DocumentMoniker": "D:\\Non-Entertain\\Assignment3_PRN221\\Candidate_DAO\\CandidateProfileDAO.cs",
+              "RelativeDocumentMoniker": "..\\Candidate_DAO\\CandidateProfileDAO.cs",
+              "ToolTip": "D:\\Non-Entertain\\Assignment3_PRN221\\Candidate_DAO\\CandidateProfileDAO.cs",
+              "RelativeToolTip": "..\\Candidate_DAO\\CandidateProfileDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T01:27:08.245Z",
+              "WhenOpened": "2024-11-09T14:16:00.46Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CandidateProfileDAO.cs",
-              "DocumentMoniker": "C:\\Users\\thanhtien\\Desktop\\Assignment3_PRN221\\Candidate_DAO\\CandidateProfileDAO.cs",
-              "RelativeDocumentMoniker": "..\\Candidate_DAO\\CandidateProfileDAO.cs",
-              "ToolTip": "C:\\Users\\thanhtien\\Desktop\\Assignment3_PRN221\\Candidate_DAO\\CandidateProfileDAO.cs",
-              "RelativeToolTip": "..\\Candidate_DAO\\CandidateProfileDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "JobPostDAO.cs",
+              "DocumentMoniker": "D:\\Non-Entertain\\Assignment3_PRN221\\Candidate_DAO\\JobPostDAO.cs",
+              "RelativeDocumentMoniker": "..\\Candidate_DAO\\JobPostDAO.cs",
+              "ToolTip": "D:\\Non-Entertain\\Assignment3_PRN221\\Candidate_DAO\\JobPostDAO.cs",
+              "RelativeToolTip": "..\\Candidate_DAO\\JobPostDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T01:26:51.883Z",
+              "WhenOpened": "2024-11-09T14:15:45.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HRAccountDAO.cs",
+              "DocumentMoniker": "D:\\Non-Entertain\\Assignment3_PRN221\\Candidate_DAO\\HRAccountDAO.cs",
+              "RelativeDocumentMoniker": "..\\Candidate_DAO\\HRAccountDAO.cs",
+              "ToolTip": "D:\\Non-Entertain\\Assignment3_PRN221\\Candidate_DAO\\HRAccountDAO.cs",
+              "RelativeToolTip": "..\\Candidate_DAO\\HRAccountDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T14:15:00.953Z",
               "EditorCaption": ""
             }
           ]
@@ -81,10 +97,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             }
           ]
         }

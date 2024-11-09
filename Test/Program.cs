@@ -8,6 +8,7 @@ class Program
         ReadCandidateProfiles();
         ReadJobPostings();
         ReadHRAccount();
+        GetCurrentDirectory();
     }
     private static void ReadCandidateProfiles()
     {
@@ -68,5 +69,15 @@ class Program
         {
             Console.WriteLine("No HR Account Data");
         }
+    }
+    private static void GetCurrentDirectory()
+    {
+        // Define the relative path from your current directory to the JSON file
+        string relativePath = @"..\..\..\..\Candidate_DAO\Data\candidateprofile.json";
+
+        // Combine the current directory with the relative path
+        string fullPath = Path.GetFullPath(Path.Combine(Directory.GetCurrentDirectory(), relativePath));
+
+        Console.WriteLine("Full Path: " + fullPath);
     }
 }
